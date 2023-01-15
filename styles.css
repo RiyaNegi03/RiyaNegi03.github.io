@@ -580,7 +580,7 @@ text.ContributionCalendar-label {
 .contrib-column-first {
   border-left: 0px !important;
 }
-/*macbook css by Burak Can */
+
 
 .macbook {
   width: 150px;
@@ -1071,6 +1071,7 @@ text.ContributionCalendar-label {
   }
   .home .homeContent .text-2 {
     font-size: 70px;
+    margin: 5px 0;
   }
 
   .home .homeContent .text-3 {

@@ -38,7 +38,7 @@ window.onscroll = function () {
   
   let typingText = document.getElementById("typingText");
   const texts = [
-    "I am a Aspiring Full Stack Developer.",
+    "I am an Aspiring Full Stack Developer.",
     "I Love Coding.",
     "I Love Problem Solving.",
   ];
